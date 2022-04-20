@@ -3818,9 +3818,9 @@ const IndexPage = () => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     pageTitle: "Home Page"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "I'm making this by following the Gatsby Tutorial."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
-    alt: "Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera",
+    alt: "Clifford, a reddish-brown pitbull, dozing in a bean bag chair",
     src: "../images/clifford.jpeg",
-    __error: "No data found for image \"../images/clifford.jpeg\"\n              undefinedCould not read image data file \"/Users/angchen/Desktop/Projects/gatsby/my-first-gatsby-site/.cache/caches/gatsby-plugin-image/3327944193.json\". \nThis may mean that the images in \"/Users/angchen/Desktop/Projects/gatsby/my-first-gatsby-site/src/pages/index.js\" were not processed.\nPlease ensure that your gatsby version is at least 2.24.78."
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3327944193.json */ "./.cache/caches/gatsby-plugin-image/3327944193.json")
   }));
 };
 
@@ -4727,6 +4727,17 @@ function mitt(all                 ) {
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (mitt);
 //# sourceMappingURL=mitt.es.js.map
 
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3327944193.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3327944193.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#787868","images":{"fallback":{"src":"/static/8fe15b6557b8e11d33c198a6a9024136/863ef/clifford.jpg","srcSet":"/static/8fe15b6557b8e11d33c198a6a9024136/d4d2a/clifford.jpg 512w,\\n/static/8fe15b6557b8e11d33c198a6a9024136/669f3/clifford.jpg 1024w,\\n/static/8fe15b6557b8e11d33c198a6a9024136/863ef/clifford.jpg 2048w","sizes":"(min-width: 2048px) 2048px, 100vw"},"sources":[{"srcSet":"/static/8fe15b6557b8e11d33c198a6a9024136/a79fe/clifford.webp 512w,\\n/static/8fe15b6557b8e11d33c198a6a9024136/2d898/clifford.webp 1024w,\\n/static/8fe15b6557b8e11d33c198a6a9024136/de790/clifford.webp 2048w","type":"image/webp","sizes":"(min-width: 2048px) 2048px, 100vw"}]},"width":2048,"height":1536}');
 
 /***/ }),
 
